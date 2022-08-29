@@ -9,6 +9,7 @@
 )](https://github.com/Piedrovi)[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitee)](https://api.whatsapp.com/send?1=pt_BR&phone=557583318300)
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPedroVII&show_icons=true&theme=dracula&count_private=true)<br/>
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?DevPedroVII={DevPedroVII}&theme=dracula)<br/>
 
 ### Tecnologias do Meu Conhecimento
 
