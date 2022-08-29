@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 )](https://twitter.com/Pedrovini_dev)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-)](https://github.com/Piedrovi)
+)](https://github.com/Piedrovi)[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitee)](https://api.whatsapp.com/send?1=pt_BR&phone=557583318300SSSS)
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPedroVII&show_icons=true&theme=dracula)
 
@@ -22,4 +22,6 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, Sou DevJR fullstack quer crescer junto a area tecnologica.
+Apaixonado por tecnologia, educação e por poder evoluir através da programação.
+
+
