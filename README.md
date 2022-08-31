@@ -10,6 +10,8 @@
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPedroVII&show_icons=true&theme=dracula&count_private=true)<br/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPedroVIRM&layout=compact&langs_count=7&theme=dracula"/>
+
 ### Tecnologias do Meu Conhecimento
 
 
