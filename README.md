@@ -26,6 +26,7 @@
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="MYSql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="py" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </div><br/>
 
 Sou Um Desenvolvedor Full Stack e Quality assurance (QA), que acabou de fazer um bootcamp da Labenu, este bootcamp busca trabalhar de uma maneira similar ao ambiente de trabalho home office, utilizando de metodologias ágeis e trabalhos em grupo, fazendo uso diariamente do GitHub E com projetos que buscam melhorar o desempenho coletivo e individual. Atualmente eu estou em transição de carreira, estou cursando Analise de dados e Sistemas (ADS) pela Wyden e estou cursando Python Pela Universidade de Michigan (Programming for Everybody (Getting Started with Python), tenho alguns projetos utilizando de apis e programas de automação (Ruby / Selenium/capybara/python).
