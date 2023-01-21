@@ -32,5 +32,7 @@
 Sou Um Desenvolvedor Full Stack e Quality assurance (QA), que acabou de fazer um bootcamp da Labenu, este bootcamp busca trabalhar de uma maneira similar ao ambiente de trabalho home office, utilizando de metodologias ágeis e trabalhos em grupo, fazendo uso diariamente do GitHub E com projetos que buscam melhorar o desempenho coletivo e individual. Atualmente eu estou em transição de carreira, estou cursando Analise de dados e Sistemas (ADS) pela Wyden e estou cursando Python Pela Universidade de Michigan (Programming for Everybody (Getting Started with Python), tenho alguns projetos utilizando de apis e programas de automação (Ruby / Selenium/capybara/python).
    Tenho experiencia Trabalhado em Farmacia Hospitalar, Mudei de Area Pois não vi uma possibilidade de evolução na minha Vida, como eu sou apaixonado pela Evolução, Tecnologia e Modernidade, visualizei numa area que eu sou apaixonado desde de pequeno a possibilidade de buscar um futuro melhor e de certa forma está na area pela qual eu sempre fui apaixonado, adoro o Trabalho em equipe e mais ainda as criticas .
    Eu me apaixonei pela area fazendo alguns projetos de automação e O PokeApi um projeto que foi apresentado na labenu, ele visava o uso de apis. Github Estudante(https://github.com/Piedrovi). Eu espero poder ter uma oportunidade de ajudar algum empresa a se desenvolver com meu auxilio, desde já grato por sua leitura.
+   
+   S2
 
 
