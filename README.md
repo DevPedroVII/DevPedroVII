@@ -29,10 +29,9 @@
   <img align="center" alt="py" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </div><br/>
 
-Sou Um Desenvolvedor Full Stack e Quality assurance (QA), que acabou de fazer um bootcamp da Labenu, este bootcamp busca trabalhar de uma maneira similar ao ambiente de trabalho home office, utilizando de metodologias ágeis e trabalhos em grupo, fazendo uso diariamente do GitHub E com projetos que buscam melhorar o desempenho coletivo e individual. Atualmente eu estou em transição de carreira, estou cursando Analise de dados e Sistemas (ADS) pela Wyden e estou cursando Python Pela Universidade de Michigan (Programming for Everybody (Getting Started with Python), tenho alguns projetos utilizando de apis e programas de automação (Ruby / Selenium/capybara/python).
-   Tenho experiencia Trabalhado em Farmacia Hospitalar, Mudei de Area Pois não vi uma possibilidade de evolução na minha Vida, como eu sou apaixonado pela Evolução, Tecnologia e Modernidade, visualizei numa area que eu sou apaixonado desde de pequeno a possibilidade de buscar um futuro melhor e de certa forma está na area pela qual eu sempre fui apaixonado, adoro o Trabalho em equipe e mais ainda as criticas .
-   Eu me apaixonei pela area fazendo alguns projetos de automação e O PokeApi um projeto que foi apresentado na labenu, ele visava o uso de apis. Github Estudante(https://github.com/Piedrovi). Eu espero poder ter uma oportunidade de ajudar algum empresa a se desenvolver com meu auxilio, desde já grato por sua leitura.
+I am a Full Stack and Quality Assurance (QA) Developer, who just completed a Labenu bootcamp, this bootcamp seeks to work in a similar way to the home office work environment, using agile methodologies and group work, making daily use of GitHub And with projects that seek to improve collective and individual performance. I'm currently in a career transition, I'm studying Data and Systems Analysis (ADS) at Wyden and I'm studying Python at the University of Michigan (Programming for Everybody (Getting Started with Python), I have some projects using apis and automation programs ( Ruby/Selenium/capybara/python).
+    I have experience Working in Hospital Pharmacy, I changed Areas Because I didn't see a possibility of evolution in my Life, as I am passionate about Evolution, Technology and Modernity, I visualized in an area that I have been passionate about since I was a child, the possibility of seeking a better future and in a way it's in the area I've always been passionate about, I love teamwork and even more criticism.
+    I fell in love with the area doing some automation projects and PokeApi a project that was presented at labenu, it aimed at the use of apis. Github Student(https://github.com/Piedrovi). I hope I can have an opportunity to help a company to develop with my help, thank you in advance for your reading.
    
-   S2
-
+    
 
