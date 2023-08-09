@@ -12,7 +12,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPedroVII&layout=compact&langs_count=7&theme=dracula"/>
 
-### Tecnologias do Meu Conhecimento
+### Tecnologias do Meu Conhecimento:
 
 
 <div style="display: inline_block">
