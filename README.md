@@ -29,9 +29,22 @@
   <img align="center" alt="py" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </div><br/>
 
-I am a Full Stack and Quality Assurance (QA) Developer, who just completed a Labenu bootcamp, this bootcamp seeks to work in a similar way to the home office work environment, using agile methodologies and group work, making daily use of GitHub And with projects that seek to improve collective and individual performance. I'm currently in a career transition, I'm studying Data and Systems Analysis (ADS) at Wyden and I'm studying Python at the University of Michigan (Programming for Everybody (Getting Started with Python), I have some projects using apis and automation programs ( Ruby/Selenium/capybara/python).
-    I have experience Working in Hospital Pharmacy, I changed Areas Because I didn't see a possibility of evolution in my Life, as I am passionate about Evolution, Technology and Modernity, I visualized in an area that I have been passionate about since I was a child, the possibility of seeking a better future and in a way it's in the area I've always been passionate about, I love teamwork and even more criticism.
-    I fell in love with the area doing some automation projects and PokeApi a project that was presented at labenu, it aimed at the use of apis. Github Student(https://github.com/Piedrovi). I hope I can have an opportunity to help a company to develop with my help, thank you in advance for your reading.
-   
-    
+Olá! Meu nome é Pedro Vinicius Carvalho Gomes Nascimento e sou um estudante de Análise de Dados e Sistemas na Faculdade Wyden Unifanor EAD, com previsão de formação em 2025. Sou apaixonado por tecnologia, análise de dados e desenvolvimento de sistemas, e estou comprometido em impulsionar minha carreira neste campo dinâmico.
 
+Formação Acadêmica:
+
+Curso: Análise de Dados e Sistemas (Em andamento)
+Instituição: Faculdade Wyden Unifanor EAD
+Previsão de Formatura: 2025
+Habilidades Técnicas:
+
+Linguagens de Programação: Possuo conhecimento em várias linguagens, incluindo Java, JavaScript, CSS, HTML, e tenho conhecimentos básicos em Python e Ruby.
+Cursos Adicionais: Realizei o curso de Java na Udemy, o que me proporcionou uma base sólida nesta linguagem. Também participei do Boot Camp Labenu Full Stack, onde aprimorei minhas habilidades em desenvolvimento web.
+Idiomas: Estou cursando inglês, com níveis básico e intermediário de proficiência. Isso me permite uma comunicação eficaz e a compreensão de recursos técnicos em inglês.
+Disponibilidade Geográfica:
+
+Tenho a flexibilidade e a disponibilidade para mudanças em qualquer região do Brasil e até mesmo do mundo. Estou aberto a oportunidades que possam expandir meus horizontes e experiências profissionais.
+Estou atualmente em busca de um estágio ou posição júnior na área de Análise de Dados e Sistemas. Meu objetivo é aplicar os conhecimentos adquiridos ao longo da minha formação e contribuir para projetos desafiadores em uma equipe dedicada.
+
+Você pode encontrar mais informações sobre minha formação e experiência no meu perfil do LinkedIn: https://www.linkedin.com/in/pedro-nascimento-059036169/
+Ficarei feliz em me conectar e discutir oportunidades de colaboração e crescimento em conjunto. Contate-me por meio do LinkedIn ou do meu endereço de e-mail Pedro.carvalho161@gmail.com. Estou ansioso para construir um futuro de sucesso na área de Análise de Dados e Sistemas.
