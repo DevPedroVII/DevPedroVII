@@ -23,7 +23,6 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="MYSql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="py" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -48,3 +47,26 @@ Estou atualmente em busca de um estágio ou posição júnior na área de Análi
 
 Você pode encontrar mais informações sobre minha formação e experiência no meu perfil do LinkedIn: https://www.linkedin.com/in/pedro-nascimento-059036169/
 Ficarei feliz em me conectar e discutir oportunidades de colaboração e crescimento em conjunto. Contate-me por meio do LinkedIn ou do meu endereço de e-mail Pedro.carvalho161@gmail.com. Estou ansioso para construir um futuro de sucesso na área de Análise de Dados e Sistemas.
+
+
+
+Hello! My name is Pedro Vinicius Carvalho Gomes Nascimento, and I am a student of Data Analysis and Systems at Wyden Unifanor EAD, with an expected graduation date in 2025. I am passionate about technology, data analysis, and system development, and I am committed to advancing my career in this dynamic field.
+
+Academic Background:
+
+Course: Data Analysis and Systems (Ongoing)
+Institution: Wyden Unifanor EAD
+Expected Graduation: 2025
+Technical Skills:
+
+Programming Languages: I have knowledge in several programming languages, including Java, JavaScript, CSS, HTML, and I have basic knowledge of Python and Ruby.
+Additional Courses: I completed a Java course on Udemy, which provided me with a solid foundation in this language. I also participated in the Labenu Full Stack Boot Camp, where I honed my skills in web development.
+Languages: I am currently studying English, with a basic and intermediate proficiency level. This allows me to effectively communicate and understand technical resources in English.
+Geographical Availability:
+
+I have the flexibility and availability for relocations to any region in Brazil or even internationally. I am open to opportunities that can broaden my horizons and professional experiences.
+I am currently seeking an internship or junior position in the field of Data Analysis and Systems. My goal is to apply the knowledge gained throughout my education and contribute to challenging projects within a dedicated team.
+
+You can find more information about my education and experience on my LinkedIn profile: https://www.linkedin.com/in/pedro-nascimento-059036169/
+
+I would be delighted to connect and discuss collaboration and growth opportunities together. Please feel free to contact me via LinkedIn or my email address at pedro.carvalho161@gmail.com. I am looking forward to building a successful future in the field of Data Analysis and Systems.
