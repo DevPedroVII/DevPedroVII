@@ -49,6 +49,7 @@ Você pode encontrar mais informações sobre minha formação e experiência no
 Ficarei feliz em me conectar e discutir oportunidades de colaboração e crescimento em conjunto. Contate-me por meio do LinkedIn ou do meu endereço de e-mail Pedro.carvalho161@gmail.com. Estou ansioso para construir um futuro de sucesso na área de Análise de Dados e Sistemas.
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hello! My name is Pedro Vinicius Carvalho Gomes Nascimento, and I am a student of Data Analysis and Systems at Wyden Unifanor EAD, with an expected graduation date in 2025. I am passionate about technology, data analysis, and system development, and I am committed to advancing my career in this dynamic field.
 
