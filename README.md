@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 )](https://twitter.com/Pedrovini_dev)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-)](https://github.com/Piedrovi)[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitee)](https://api.whatsapp.com/send?1=pt_BR&phone=557583318300)
+)](https://github.com/Piedrovi)[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitee)](https://api.whatsapp.com/send?1=pt_BR&phone=557598518252)
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPedroVII&show_icons=true&theme=dracula&count_private=true)<br/>
 
