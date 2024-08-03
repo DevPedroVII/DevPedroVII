@@ -45,7 +45,7 @@ Disponibilidade Geográfica:
 Tenho a flexibilidade e a disponibilidade para mudanças em qualquer região do Brasil e até mesmo do mundo. Estou aberto a oportunidades que possam expandir meus horizontes e experiências profissionais.
 Estou atualmente em busca de um estágio ou posição júnior na área de Análise de Dados e Sistemas. Meu objetivo é aplicar os conhecimentos adquiridos ao longo da minha formação e contribuir para projetos desafiadores em uma equipe dedicada.
 
-Você pode encontrar mais informações sobre minha formação e experiência no meu perfil do LinkedIn: https://www.linkedin.com/in/pedro-nascimento-059036169/
+Você pode encontrar mais informações sobre minha formação e experiência no meu perfil do LinkedIn: https://www.linkedin.com/in/pedro-nascimento11/
 Ficarei feliz em me conectar e discutir oportunidades de colaboração e crescimento em conjunto. Contate-me por meio do LinkedIn ou do meu endereço de e-mail Pedro.carvalho161@gmail.com. Estou ansioso para construir um futuro de sucesso na área de Análise de Dados e Sistemas.
 
 
@@ -68,6 +68,6 @@ Geographical Availability:
 I have the flexibility and availability for relocations to any region in Brazil or even internationally. I am open to opportunities that can broaden my horizons and professional experiences.
 I am currently seeking an internship or junior position in the field of Data Analysis and Systems. My goal is to apply the knowledge gained throughout my education and contribute to challenging projects within a dedicated team.
 
-You can find more information about my education and experience on my LinkedIn profile: https://www.linkedin.com/in/pedro-nascimento-059036169/
+You can find more information about my education and experience on my LinkedIn profile: https://www.linkedin.com/in/pedro-nascimento11/
 
 I would be delighted to connect and discuss collaboration and growth opportunities together. Please feel free to contact me via LinkedIn or my email address at pedro.carvalho161@gmail.com. I am looking forward to building a successful future in the field of Data Analysis and Systems.
